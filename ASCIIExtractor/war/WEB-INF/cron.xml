@@ -1,0 +1,17 @@
+<cronentries>
+<cron>
+<url>/dailyasciiextractor</url>
+<schedule>every day 03:30</schedule>
+</cron>
+
+<cron>
+<url>/dailyasciiextractor</url>
+<schedule>every day 14:30</schedule>
+</cron>
+
+<cron>
+<url>/resulttracker</url>
+<schedule>every 60 minutes</schedule>
+</cron>
+
+</cronentries>
